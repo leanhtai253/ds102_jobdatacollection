@@ -1,0 +1,67 @@
+id,name,nameEn,mapped_id
+2,An Giang,An Giang,1
+3,Bà Rịa - Vũng Tàu,Ba Ria - Vung Tau,2
+5,Bắc Giang,Bac Giang,3
+4,Bắc Kạn,Bac Kan,4
+6,Bạc Liêu,Bac Lieu,5
+7,Bắc Ninh,Bac Ninh,6
+8,Bến Tre,Ben Tre,7
+10,Bình Định,Binh Dinh,8
+11,Bình Dương,Binh Duong,9
+12,Bình Phước,Binh Phuoc,10
+13,Bình Thuận,Binh Thuan,11
+14,Cà Mau,Ca Mau,12
+15,Cần Thơ,Can Tho,13
+16,Cao Bằng,Cao Bang,14
+17,Đà Nẵng,Da Nang,15
+18,Đắk Lắk,Dak Lak,16
+73,Đắk Nông,Dak Nong,17
+71,ĐBSCL,Mekong Delta,18
+69,Điện Biên,Dien Bien,19
+19,Đồng Nai,Dong Nai,20
+20,Đồng Tháp,Dong Thap,21
+21,Gia Lai,Gia Lai,22
+22,Hà Giang,Ha Giang,23
+23,Hà Nam,Ha Nam,24
+24,Hà Nội,Ha Noi,25
+26,Hà Tĩnh,Ha Tinh,26
+27,Hải Dương,Hai Duong,27
+28,Hải Phòng,Hai Phong,28
+72,Hậu Giang,Hau Giang,29
+30,Hòa Bình,Hoa Binh,30
+32,Hưng Yên,Hung Yen,31
+66,Khác,Other,32
+33,Khánh Hòa,Khanh Hoa,33
+61,Kiên Giang,Kien Giang,34
+34,Kon Tum,Kon Tum,35
+35,Lai Châu,Lai Chau,36
+36,Lâm Đồng,Lam Dong,37
+37,Lạng Sơn,Lang Son,38
+38,Lào Cai,Lao Cai,39
+39,Long An,Long An,40
+40,Nam Định,Nam Dinh,44
+41,Nghệ An,Nghe An,45
+42,Ninh Bình,Ninh Binh,46
+43,Ninh Thuận,Ninh Thuan,47
+44,Phú Thọ,Phu Tho,49
+45,Phú Yên,Phu Yen,50
+46,Quảng Bình,Quang Binh,51
+47,Quảng Nam,Quang Nam,52
+48,Quảng Ngãi,Quang Ngai,53
+49,Quảng Ninh,Quang Ninh,54
+50,Quảng Trị,Quang Tri,55
+70,Quốc tế,International,56
+51,Sóc Trăng,Soc Trang,57
+52,Sơn La,Son La,58
+53,Tây Ninh,Tay Ninh,59
+54,Thái Bình,Thai Binh,60
+55,Thái Nguyên,Thai Nguyen,61
+56,Thanh Hóa,Thanh Hoa,62
+57,Thừa Thiên Huế,Thua Thien Hue,63
+58,Tiền Giang,Tien Giang,64
+29,Hồ Chí Minh,Ho Chi Minh,66
+59,Trà Vinh,Tra Vinh,67
+60,Tuyên Quang,Tuyen Quang,68
+62,Vĩnh Long,Vinh Long,69
+63,Vĩnh Phúc,Vinh Phuc,70
+65,Yên Bái,Yen Bai,71

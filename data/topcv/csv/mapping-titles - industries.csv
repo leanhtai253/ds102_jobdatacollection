@@ -1,0 +1,75 @@
+id,name,nameEn
+1,An ninh - Bảo vệ,Safety - Security
+2,An toàn lao động,HSE
+3,Biên phiên dịch,Interpreter - Translator
+4,Bác sĩ,Medical Doctor
+5,Bán buôn - Bán lẻ - Quản lý cửa hàng,Retail - Business Management
+6,Bảo hiểm,Insurance
+7,Bất động sản,Real Estate
+8,Chăm sóc khách hàng,Customer Services
+9,Cơ khí,Mechanics
+10,Quản lý điều hành,Executive Management
+11,AI - Data Science - Business Intelligence,AI - Data Science - Business Intelligence
+12,Dược Phẩm - Công nghệ sinh học,Pharmaceutical - Biotech
+13,Dược sĩ,Pharmacist
+14,Dệt may - Da giày,Textile - Garment - Footwear
+15,Giáo dục - Đào tạo,Education - Training
+16,Hàng hải,Marine
+17,Hàng không  - Du lịch,Airlines - Travel
+18,Hành chính - Thư ký,Administrative - Clerical
+19,Hóa học - Hóa sinh,Chemical - Biochemical
+20,IT Phần cứng - Mạng - Viễn Thông,IT Hardware - Network - Telecommunications
+21,IT Phần mềm,IT Software
+22,Internet - Online Media,Internet - Online Media
+23,Khai thác năng lượng - Khoáng sản,Energy - Minerals Mining
+24,Khoa học - Kỹ thuật,Science - Engineering
+25,Khách sạn - Nhà hàng - Du lịch,Hospitality - Tourism
+26,Kinh doanh,Sales - Business Development
+27,Kiến trúc - Thiết kế nội thất,Architecture - Interior Design
+28,Kiểm toán,Auditing
+29,Kế toán,Accounting
+30,Marketing,Marketing
+31,Môi trường - Xử lý chất thải,Environmental - Waste Services
+32,Nghề nghiệp khác,Others
+33,Ngân hàng,Banking
+34,Nhân sự,Human Resources
+35,Nông - Lâm - Ngư nghiệp,Agriculture - Forestry - Fishery
+36,Phi chính phủ - Phi lợi nhuận,NGO - Non-profit
+37,Pháp Lý - Tuân thủ,Legal Services
+38,Quản lý dự án,Project Management
+39,Quản lý tiêu chuẩn và chất lượng,Quality Assurance - Control
+40,Quảng cáo - Khuyến mãi,Advertising - Promotions
+41,Sản phẩm công nghiệp,Industrial products
+42,Sản xuất - Lắp ráp - Chế biến,Manufacturing - Assembly - Processing
+43,Thiết kế - Sáng tạo nghệ thuật,Creative Arts - Design
+44,Thu mua - Kho Vận - Chuỗi cung ứng,Purchasing - Warehouse - Supply Chain
+45,Thông tin - Truyền thông - Xuất bản - In ấn,Communications - Printing - Publishing
+46,Thương mại điện tử,E-commerce
+47,Thời trang,Fashion
+48,Thực phẩm - Đồ uống,Foods - Beverages
+49,Trình dược viên,Pharmaceutical Representatives
+50,Tài chính - Đầu tư,Finance - Investment
+51,Tài chính công nghệ,Fintech
+52,Tư vấn,Consulting
+53,Tự động hóa - Ô tô,Automation - Automotive
+54,Vận Tải - Lái xe - Giao nhận,Transport - Logistics
+55,Vận hành máy - Bảo trì - Bảo dưỡng thiết bị,Operations - Maintenance
+56,Xuất Nhập Khẩu,Import - Export
+57,Xây dựng,Civil - Construction
+58,Y tế - Chăm sóc sức khỏe,Healthcare
+59,Điện lạnh - Nhiệt lạnh,HVAC 
+60,Điện - Điện tử,Electrical - Electronics
+61,Bán hàng kỹ thuật,Technical Sales
+62,Công nghệ cao,High Technology
+63,Hàng cao cấp,Luxury Goods
+64,Hàng gia dụng,Household
+65,Hàng tiêu dùng,FMCG
+66,Mới tốt nghiệp,Fresh Graduates
+67,Người nước ngoài - Việt Kiều,Expatriate Jobs
+68,Overseas Jobs,Overseas Jobs
+69,Thời vụ - Hợp đồng ngắn hạn,Temporary - Contract
+70,Spa - Làm đẹp,Spa - Beauty
+71,Bưu chính - Viễn thông,Posts and Telecommunications
+72,Nghiên cứu và Phát triển,Research and Development
+73,Thể Thao - Thể hình,Sports - Fitness
+74,Quan hệ công chúng,Public Relations (Internal - External)
